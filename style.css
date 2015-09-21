@@ -5,3 +5,14 @@
 .modal-content {
     width: 800px;
 }
+.image-holder{
+    height: 200px;
+    width: 350px;
+    display: inline-block;
+    margin: 10px;
+}
+body{
+	margin: 80px;
+}
+
+
